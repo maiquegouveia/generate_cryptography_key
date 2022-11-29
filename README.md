@@ -1,4 +1,3 @@
 # generate_cryptography_key
-Using Fernet Cryptography
-You're gonna need to install cryptography package to run this program.
-The command is 'pip install cryptography'
+Generates Fernet Cryptography key
+To run this program you're gonna need to install cryptography package, to install run 'pip install cryptography' in the command prompt (cmd)
